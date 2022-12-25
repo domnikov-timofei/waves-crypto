@@ -1,6 +1,6 @@
 [
   {
     "path": "dist/*.js",
-    "limit": 62744
+    "limit": 29640
   }
 ]
